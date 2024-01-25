@@ -18,9 +18,9 @@ ReactJS, HTML, CSS
 
 ## Screenshot
 
-## ![Front, search](./src/assets/Screenshot1.png)
+## ![Front, search](./src/assets/Screenshot_1.png)
 
-## ![Recipes](./src/assets/Screenshot2.png)
+## ![Recipes](./src/assets/Screenshot_2.png)
 
 ### **Check it out!**
 
